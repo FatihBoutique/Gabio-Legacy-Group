@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b8f73"/>
+    <stop offset=".52" stop-color="#1eb47f"/>
+    <stop offset="1" stop-color="#c79b3b"/>
+  </linearGradient>
+  <linearGradient id="g2" x1="1" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#c79b3b"/>
+    <stop offset="1" stop-color="#0b8f73"/>
+  </linearGradient>
+</defs>
+<rect width="800" height="800" fill="none"/>
+<circle cx="400" cy="330" r="270" fill="none" stroke="#d8c99e" stroke-opacity=".28" stroke-width="2"/>
+<path d="M155 335 C210 235 305 232 400 330 C495 428 590 425 645 325" fill="none" stroke="url(#g)" stroke-width="46" stroke-linecap="round"/>
+<path d="M155 325 C210 425 305 428 400 330 C495 232 590 235 645 335" fill="none" stroke="url(#g2)" stroke-width="46" stroke-linecap="round"/>
+<path d="M400 292 C425 255 465 230 510 218 C490 267 458 301 412 316" fill="#7dbb5a"/>
+<path d="M402 294 C390 257 392 223 405 192 C433 225 438 261 420 300" fill="#0b8f73"/>
+<path d="M400 342 C432 312 474 300 519 305 C485 343 447 357 407 356" fill="#c79b3b" opacity=".92"/>
+<path d="M400 342 C368 312 326 300 281 305 C315 343 353 357 393 356" fill="#7dbb5a" opacity=".92"/>
+<path d="M330 440 Q400 485 470 440" fill="none" stroke="#c79b3b" stroke-width="5" stroke-linecap="round"/>
+<text x="400" y="525" text-anchor="middle" fill="#071a31" font-family="Georgia,serif" font-size="76" letter-spacing="6">INFINITY</text>
+<text x="400" y="585" text-anchor="middle" fill="#c79b3b" font-family="Arial,sans-serif" font-size="30" letter-spacing="14">DREAMS</text>
+<text x="400" y="630" text-anchor="middle" fill="#536173" font-family="Arial,sans-serif" font-size="15" letter-spacing="5">FOOD · PISCICULTURE · AGRICULTURE</text>
+</svg>
